@@ -1,34 +1,35 @@
 Abominable Snowman
-Alien (Xenomorph)
+Alien
+Xenomorph
 Audrey II
 Automatons
 Bane
 Basilisk
-Beelzebub (The Devil)
-Beetlejuice (Betelgeuse)
+Beelzebub
+Beetlejuice
 Bigfoot
 Body Snatcher
 Boogeyman
 The Blob
 Centaur
-Champ (Lake Champlain Monster)
+Champ
 Chimera
 Chuckie
 Chupacabra
 Clover
 Creature from the Black Lagoon
-Creepers (from Minecraft)
+Creepers
 The Critters
 The Crypt Keeper
 Cyclops
-Damien (“The Omen”)
-Demon Possession in “The Exorcist”
+Damien
+Exorcist
 Dracula
 Dragons
 Drakon
 The Elephant Man
 Elmo
-The Fly (Brundlefly)
+Brundlefly
 Flying Spaghetti Monster
 Frankenstein
 Freddy Kruger
@@ -40,7 +41,7 @@ Goblins
 Godzilla
 The Graboids
 Gremlin
-Griffin (Gryphon)
+Gryphon
 The Grinch
 Grover
 Gurumapa
@@ -52,18 +53,18 @@ Hunchback
 Hydra
 Incubus
 It
-Jason (“Friday the 13th”)
+Jason
 Jaws
 Jersey Devil
 King Kong
 The Kraken
-Lākhey
+Lakhey
 Leatherface
 Leprechaun
 Leviathan
 Loch Ness Monster
 Malificient
-Manfred, Mookie & Mojo (“The Monstore”)
+Manfred
 Martians
 Medusa
 Mike Myers
@@ -74,7 +75,7 @@ Mr. Hyde
 The Night Wump
 Ogopogo
 Oscar the Grouch
-The Pale Green Pants (with nobody inside them!)
+The Pale Green Pants
 The Penguin
 Phantom of the Opera
 Phoenix
@@ -108,7 +109,7 @@ Vermicious Knid
 Voldemort
 Werewolf
 Whangdoodle
-Wild Things (“Where the Wild Things Are”)
+Wild Things
 Wicked Witch of the West
 Wolfman
 Yeti
