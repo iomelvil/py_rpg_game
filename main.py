@@ -12,6 +12,6 @@ def generate_enemy():
     return Enemy("Tank", random.randint(8, 10), random.randint(2, 3))
 
 enemy1 = generate_enemy()
-print(enemy1.health)
+
 
 
