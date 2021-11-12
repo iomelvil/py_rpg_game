@@ -1,7 +1,7 @@
 import random
 from classes import *
 
-cat_1 = Cat("Cam",1,"Tank")
+cat_1 = Cat("Cam", 1 ,"Tank")
 cat_1.print_status()
 
 def generate_enemy():
@@ -9,6 +9,9 @@ def generate_enemy():
         lines = file1.readlines()
         monster_name = lines[random.randint(0, len(lines)-1)][:-1]
     print(monster_name)
+    return Enemy("Tank", random.randint(8, 10), random.randint(2, 3))
 
-generate_enemy()
+enemy1 = generate_enemy()
+print(enemy1.health)
+
 

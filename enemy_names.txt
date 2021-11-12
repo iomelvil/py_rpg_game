@@ -10,7 +10,7 @@ Beetlejuice
 Bigfoot
 Body Snatcher
 Boogeyman
-The Blob
+Blob
 Centaur
 Champ
 Chimera
@@ -18,16 +18,16 @@ Chuckie
 Chupacabra
 Clover
 Creature from the Black Lagoon
-Creepers
-The Critters
-The Crypt Keeper
+Creeper
+Critter
+Crypt Keeper
 Cyclops
 Damien
 Exorcist
 Dracula
 Dragons
 Drakon
-The Elephant Man
+Elephant Man
 Elmo
 Brundlefly
 Flying Spaghetti Monster
@@ -39,7 +39,7 @@ Ghoulies
 Gnomes
 Goblins
 Godzilla
-The Graboids
+Graboid
 Gremlin
 Gryphon
 The Grinch
@@ -65,7 +65,7 @@ Leviathan
 Loch Ness Monster
 Malificient
 Manfred
-Martians
+Martian
 Medusa
 Mike Myers
 Mike Wazowski
@@ -90,7 +90,7 @@ Sigmund the Sea Monster
 Sirens
 The Sith
 Skeletor
-The Sleestaks
+The Sleestak
 Slender Man
 Snozzwangler
 Stay-Puft Marshmallow Man
@@ -109,8 +109,8 @@ Vermicious Knid
 Voldemort
 Werewolf
 Whangdoodle
-Wild Things
+Wild Thing
 Wicked Witch of the West
 Wolfman
 Yeti
-Zombies
+Zombie

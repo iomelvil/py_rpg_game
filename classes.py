@@ -1,3 +1,5 @@
+import random
+
 class Cat:
     def __init__(self, c_name, c_level, c_role):
         self.name = c_name
@@ -36,7 +38,11 @@ class Cat:
 
 
 class Enemy:
-    def __init__(self, e_name, e_level, e_role, e_health, e_attack):
+    def __init__(self, e_role, e_health, e_attack, e_level=1, e_name=None):
+        if e_name == None:
+            with open('enemy_names.txt', 'r') as file1:
+                lines = file1.readlines()
+                e_name = lines[random.randint(0, len(lines) - 1)][:-1]
         self.name = e_name
         self.level = e_level
         self.role = e_role
